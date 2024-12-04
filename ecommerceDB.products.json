@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "6750235620129b8a2a0d8196"
+  },
+  "name": "Laptop",
+  "price": 999.99,
+  "category": "Electronics",
+  "stock": 10
+},
+{
+  "_id": {
+    "$oid": "6750235620129b8a2a0d8197"
+  },
+  "name": "Headphones",
+  "price": 49.99,
+  "category": "Accessories",
+  "stock": 50
+},
+{
+  "_id": {
+    "$oid": "6750235620129b8a2a0d8198"
+  },
+  "name": "Mouse",
+  "price": 19.99,
+  "category": "Accessories",
+  "stock": 10
+}]

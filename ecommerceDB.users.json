@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "675021f420129b8a2a0d8194"
+  },
+  "name": "Thobani Zondi",
+  "email": "zondit660@gmail.com",
+  "orders": [
+    {
+      "oderId": {
+        "$oid": "675021f420129b8a2a0d8191"
+      },
+      "date": {
+        "$date": "2024-12-01T10:00:00.000Z"
+      },
+      "items": [
+        {
+          "productId": {
+            "$oid": "675021f420129b8a2a0d8192"
+          },
+          "quantity": 2,
+          "price": 19.99
+        },
+        {
+          "productId": {
+            "$oid": "675021f420129b8a2a0d8193"
+          },
+          "quality": 1,
+          "price": 49.99
+        }
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675021f420129b8a2a0d8195"
+  },
+  "name": "Philasande Zondi",
+  "email": "philisinde@gmail.com",
+  "orders": []
+}]

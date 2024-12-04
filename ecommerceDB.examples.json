@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "675027c120129b8a2a0d819a"
+  },
+  "stringEx": "Sample Test",
+  "numberEx": 123,
+  "booleanEx": true,
+  "arrayEx": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "objectEx": {
+    "key": "value"
+  },
+  "dateEx": {
+    "$date": "2024-12-04T10:00:00.000Z"
+  },
+  "objeIdEx": {
+    "$oid": "675027c120129b8a2a0d8199"
+  }
+}]
